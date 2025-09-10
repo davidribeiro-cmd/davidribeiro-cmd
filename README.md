@@ -4,7 +4,7 @@
 💻 Currently learning **Java**, **Python**, and **SQL**  
 📊 Experience using **JavaScript in Google Sheets (Apps Script)**  
 🚀 Passionate about **backend and data-driven development**  
-📫 Contact: **david.ribeiro.dias@escola.pr.gov.br**  
+📫 Contact: **dr774138@gmail.com**  
 
 ---
 
