@@ -1,6 +1,6 @@
 # Olá, eu sou o David Ribeiro Dias 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&vCenter=true&width=520&lines=Automa%C3%A7%C3%A3o+de+processos;An%C3%A1lise+de+dados;Tecnologia+que+resolve+problemas+reais)](https://github.com/davidribeiro-cmd)
+![Automatizando processos, analisando dados, resolvendo problemas reais](status.svg)
 
 Estudante de **Gestão da Tecnologia da Informação** na **PUC-PR**, em Curitiba.
 Gosto de usar tecnologia para resolver problemas reais do dia a dia, com foco em **dados, automação de processos e desenvolvimento**.
